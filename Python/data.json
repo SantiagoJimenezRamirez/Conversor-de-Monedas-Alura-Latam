@@ -1,0 +1,47 @@
+{
+    "Dolar": [
+        {
+            "Peru": 3.6911,
+            "Colombia": 4104.47,
+            "Uruguay": 37.884,
+            "Mexico": 17.0785,
+            "Argentina": 3.6911
+        }
+    ],
+    "Euro": [
+        {
+            "Peru": 4.0699,
+            "Colombia": 4525.7938,
+            "Uruguay": 41.7728,
+            "Mexico": 18.8057,
+            "Argentina": 307.5052
+        }
+    ],
+    "Libras_Esterlinas": [
+        {
+            "Peru": 4.7054,
+            "Colombia": 5232.3784,
+            "Uruguay": 48.2945,
+            "Mexico": 21.7717,
+            "Argentina": 355.5141
+        }
+    ],
+    "Yen_Japones": [
+        {
+            "Peru": 0.026,
+            "Colombia": 28.9547,
+            "Uruguay": 0.2672,
+            "Mexico": 0.1205,
+            "Argentina": 1.9673
+        }
+    ],
+    "Won_Sul-Coreano": [
+        {
+            "Peru": 0.0028,
+            "Colombia": 3.1475,
+            "Uruguay": 0.0291,
+            "Mexico": 0.0131,
+            "Argentina": 0.2139
+        }
+    ]
+}
